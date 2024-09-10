@@ -1,0 +1,11 @@
+name="ben"
+smallNumber="6"
+bigNumber="74"
+morningnyumyum="bacon"
+favoriteColer="green"
+learningBuilding="ucas"
+currentYear="2024"
+coloredEyes="brown"
+age="14"
+bestSubject="biolagy"
+print(name, smallNumber, bigNumber, morningYumyum, favoriteColer, learningBuilding, currentYear, coloredEyes, age, bestSubject)
