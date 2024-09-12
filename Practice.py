@@ -1,7 +1,7 @@
 name="ben"
 smallNumber="6"
 bigNumber="74"
-morningnyumyum="bacon"
+morningYumyum="bacon"
 favoriteColer="green"
 learningBuilding="ucas"
 currentYear="2024"
