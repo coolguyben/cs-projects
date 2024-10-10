@@ -1,8 +1,5 @@
-animal= input ("Name an animal")
-place = input ("Name a place ")
-verb = input ("Name a verb")
+animal= input("Name an animal ")
+place = input("Name a place ")
+verb = input("Name a verb ")
 
-print("The", animal)
-print("went to the " ,place)
-print("and it",verb)
-print("Whith thier friend the angry cat")
+print("The", animal, "went to", place, "and he", verb, "with his friend the angry cat")
