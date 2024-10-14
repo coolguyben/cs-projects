@@ -5,10 +5,10 @@ void name(char name[]){
 }
 
 int main(void){
-    name("Emma");
-    name("Cooper");
+    name("Ben");
+    name("Steave");
     name("Sawyer");
-    name("Nate");
-    name("Chris Hemsworth");
+    name("Cooper");
+    name("Gorden");
     return 0;
 }
